@@ -7,7 +7,7 @@ I'm CTO at [MailerLite](https://www.mailerlite.com). I also build open-source to
 
 <a href="https://sofka.rs"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sofka-dark.svg">
-  <img src="assets/sofka-light.svg" width="100%" alt="Sofka, Kubernetes TUI in Rust. Latest release 0.31.12, 18 October 2026.">
+  <img src="assets/sofka-light.svg" width="100%" alt="Sofka, Kubernetes TUI in Rust. Latest release 0.31.13, 19 October 2026.">
 </picture></a>
 
 **sofka** is a Kubernetes TUI written in Rust, on kube-rs and ratatui. Flux and Argo CD are built in, bulk actions and port-forwards never block the UI, and `X` tells you why something is broken, from evidence, with no AI. It's named after Sophie, a Russian Blue who watches the screen.
@@ -22,7 +22,7 @@ brew install sofka
 
 <a href="https://github.com/nklmilojevic/thurm"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/thurm-dark.svg">
-  <img src="assets/thurm-light.svg" width="100%" alt="Thurm, native macOS terminal for Apple silicon. Latest release 0.9.0, 19 October 2026.">
+  <img src="assets/thurm-light.svg" width="100%" alt="Thurm, native macOS terminal for Apple silicon. Latest release 0.9.2, 19 October 2026.">
 </picture></a>
 
 **thurm** is a native macOS terminal for Apple silicon. Sessions keep running after you quit the app, remote tabs work like local ones, and agent status shows which coding agent is waiting for you.
