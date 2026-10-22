@@ -7,7 +7,7 @@ I'm CTO at [MailerLite](https://www.mailerlite.com). I also build open-source to
 
 <a href="https://sofka.rs"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/sofka-dark.svg">
-  <img src="assets/sofka-light.svg" width="100%" alt="Sofka, Kubernetes TUI in Rust. Latest release 0.31.14, 20 October 2026.">
+  <img src="assets/sofka-light.svg" width="100%" alt="Sofka, Kubernetes TUI in Rust. Latest release 0.32.0, 22 October 2026.">
 </picture></a>
 
 **sofka** is a Kubernetes TUI written in Rust, on kube-rs and ratatui. Flux and Argo CD are built in, bulk actions and port-forwards never block the UI, and `X` tells you why something is broken, from evidence, with no AI. It's named after Sophie, a Russian Blue who watches the screen.
