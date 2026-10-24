@@ -22,7 +22,7 @@ brew install sofka
 
 <a href="https://github.com/nklmilojevic/thurm"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/thurm-dark.svg">
-  <img src="assets/thurm-light.svg" width="100%" alt="Thurm, native macOS terminal for Apple silicon. Latest release 0.12.1, 24 October 2026.">
+  <img src="assets/thurm-light.svg" width="100%" alt="Thurm, native macOS terminal for Apple silicon. Latest release 0.13.0, 24 October 2026.">
 </picture></a>
 
 **thurm** is a native macOS terminal for Apple silicon. Sessions keep running after you quit the app, remote tabs work like local ones, and agent status shows which coding agent is waiting for you.
